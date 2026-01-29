@@ -1,213 +1,18 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Collection",
-  "@id": "https://iiif-gallery-builder.example.org/iiif-gallery-2026-01-29",
-  "label": "iiif-gallery-2026-01-29",
+  "@id": "https://iiif-gallery-builder.example.org/Presidio Field Staff Visit",
+  "label": "Presidio Field Staff Visit",
   "items": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "https://purl.stanford.edu/dj683by5326/iiif/manifest",
       "@type": "sc:Manifest",
-      "label": "Welcome to the Presidio of San Francisco",
-      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-      "logo": {
-        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        }
-      },
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "seeAlso": {
-        "@id": "https://purl.stanford.edu/dj683by5326.mods",
-        "format": "application/mods+xml"
-      },
-      "metadata": [
-        {
-          "label": "Available Online",
-          "value": "<a href='https://purl.stanford.edu/dj683by5326'>https://purl.stanford.edu/dj683by5326</a>"
-        },
-        {
-          "label": "Title",
-          "value": "Welcome to the Presidio of San Francisco"
-        },
-        {
-          "label": "Contributor",
-          "value": "Bennett, Bernard."
-        },
-        {
-          "label": "Contributor",
-          "value": "Wong, Edwin."
-        },
-        {
-          "label": "Contributor",
-          "value": "Presidio of San Francisco (Calif.), Master Planning Office."
-        },
-        {
-          "label": "Type",
-          "value": "Map"
-        },
-        {
-          "label": "Type",
-          "value": "Cartographic image"
-        },
-        {
-          "label": "Type",
-          "value": "Maps."
-        },
-        {
-          "label": "Type",
-          "value": "Tourist maps."
-        },
-        {
-          "label": "Format",
-          "value": "1 map : color ; 30 x 34 cm"
-        },
-        {
-          "label": "Language",
-          "value": "English"
-        },
-        {
-          "label": "Statement of responsibility",
-          "value": "compiled by Bernard Bennett and drawn by Edwin Wong ; Presidio of San Francisco, California, Master Planning Office, Directorate of Facilities Engineer, Headquarters Presidio of San Francisco."
-        },
-        {
-          "label": "Description",
-          "value": "Bar scale given in \"feet\"."
-        },
-        {
-          "label": "Description",
-          "value": "Includes location directory."
-        },
-        {
-          "label": "Description",
-          "value": "Shows buildings, roads, trails, etc."
-        },
-        {
-          "label": "Description",
-          "value": "\"Since 1776 three flags have flown over the Presidio. Spain 1776-1822 -- Mexico: 1822-1846 -- United States: 1846 - to the present.\""
-        },
-        {
-          "label": "Subject",
-          "value": "Tourist maps > California > San Francisco > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "California > Maps > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "San Francisco (Calif.) > Maps > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "Presidio of San Francisco (Calif.) > Maps > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "New York (NY)"
-        },
-        {
-          "label": "Coverage",
-          "value": "Scale not determind"
-        },
-        {
-          "label": "Coverage",
-          "value": "122°29′10″W -- 122°26′46″W / 37°48′39″N -- 37°47′12″N"
-        },
-        {
-          "label": "Date",
-          "value": "1974"
-        },
-        {
-          "label": "Date",
-          "value": "1974"
-        },
-        {
-          "label": "Identifier",
-          "value": "OCLC: 974715337"
-        },
-        {
-          "label": "Identifier",
-          "value": "https://purl.stanford.edu/dj683by5326"
-        },
-        {
-          "label": "Publisher",
-          "value": "Armed Forces Directory Service"
-        },
-        {
-          "label": "Record published",
-          "value": "2025-08-11"
-        }
-      ],
-      "description": "Bar scale given in \"feet\".",
-      "thumbnail": {
-        "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001/full/!400,400/0/default.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        },
-        "width": 400,
-        "height": 349
-      },
-      "sequences": [
-        {
-          "@id": "https://purl.stanford.edu/dj683by5326/iiif/manifest#sequence-1",
-          "@type": "sc:Sequence",
-          "label": "Current order",
-          "viewingDirection": "left-to-right",
-          "canvases": [
-            {
-              "@id": "https://purl.stanford.edu/dj683by5326/iiif/canvas/cocina-fileSet-dj683by5326-dj683by5326_1",
-              "@type": "sc:Canvas",
-              "label": "Image 1",
-              "height": 10904,
-              "width": 12484,
-              "rendering": [
-                {
-                  "@id": "https://stacks.stanford.edu/file/dj683by5326/dj683by5326_00_0001.jp2",
-                  "label": "Original source file (24.5 MB)",
-                  "format": "image/jp2"
-                }
-              ],
-              "images": [
-                {
-                  "@id": "https://purl.stanford.edu/dj683by5326/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fdj683by5326-dj683by5326_1%2Fdj683by5326_00_0001.jp2",
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "on": "https://purl.stanford.edu/dj683by5326/iiif/canvas/cocina-fileSet-dj683by5326-dj683by5326_1",
-                  "resource": {
-                    "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "height": 10904,
-                    "width": 12484,
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/manifest",
-      "label": "Map of The Presidio of San Francisco California",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~348737~90116370/manifest",
+      "label": "Land of Opportunity",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~356178~90123079/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~348737~90116370/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -215,114 +20,106 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~348737~90116370/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Map of The Presidio of San Francisco California",
+              "label": "Land of Opportunity",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Engineer Office 9th Corps"
+                  "value": "Zheng, Yunxin (Connie)"
                 },
                 {
                   "label": "Date",
-                  "value": "1924"
+                  "value": "2022"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Map of The Presidio of San Francisco California"
-                },
-                {
-                  "label": "Publisher",
-                  "value": "Engineer Office 9th Corps"
-                },
-                {
-                  "label": "Publisher Location",
-                  "value": "San Francisco"
+                  "value": "Land of Opportunity"
                 },
                 {
                   "label": "Type",
-                  "value": "Separate Map"
+                  "value": "Artwork"
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "49"
+                  "value": "213"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "60"
+                  "value": "213"
                 },
                 {
-                  "label": "Scale 1",
-                  "value": "6,000"
+                  "label": "Note",
+                  "value": "\"Mixed media drawing and collage on cyanotype print. Land of Opportunity is a map that documents forty-three of the most well-documented toxic sites in the Bay Area, alongside local environmental justice protests and both federal and community-based remediation efforts. The tar-like blobs dripping down the paper are places notable for the amount of toxic material that has leaked into the soil and groundwater primarily as a result of high-tech industry, military activities, mercury mining during the gold rush era, and nuclear testing in the South Pacific during World War II. Despite its reputation for being one of the ‘greenest’ places in the United States, the Bay Area also has one of the highest concentrations of Superfund sites in the country, particularly in Silicon Valley, the techno-utopian capital of the United States. The map emphasizes community-based, grassroots organizing efforts, and shows both the kinds of poisons that have contaminated the land as well as the ways in which surrounding communities have protested the presence of these polluters and demanded their right to a clean, healthy environment. Land of Opportunity is a register of the ways in which the Bay Area has been shaped — both figuratively and literally — by dominant settler narratives of the landscape’s potential for wealth and resource extraction. But it is also more than the shadowland of settler, entrepreneurial greed, or the American imperial war machine: it’s also a place constituted and nourished by strong radical politics, care for community, and a trust in the power of local organizing. We live in a place of endless possibility — where the byproducts of greed and warmongering can be sublimated into other forms of power, and politics can be shaped in certain places by the will of the people.\" Connie Zheng, 2022 https://www.conniezheng.com"
+                },
+                {
+                  "label": "Reference",
+                  "value": "This artwork is copyright by Connie Zheng. Please contact the artist for reproduction or exhibit. https://www.conniezheng.com"
                 },
                 {
                   "label": "City",
-                  "value": "San Francisco (Calif,)"
+                  "value": "San Francisco (Calif.)"
+                },
+                {
+                  "label": "Region",
+                  "value": "San Francisco Bay (Calif.)"
                 },
                 {
                   "label": "Subject",
-                  "value": "Military"
+                  "value": "Art"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Food"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Map of The Presidio of San Francisco California. Traced in the Engineer Office Headquarters 9th Corps Area. March 1924."
+                  "value": "Land of Opportunity"
                 },
                 {
                   "label": "List No",
-                  "value": "15815.000"
+                  "value": "15417.000"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Engineer Office 9th Corps"
+                  "value": "Zheng, Yunxin (Connie)"
                 },
                 {
                   "label": "Pub Date",
-                  "value": "1924"
+                  "value": "2022"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "Map of The Presidio of San Francisco California. Traced in the Engineer Office Headquarters 9th Corps Area. March 1924."
-                },
-                {
-                  "label": "Pub Note",
-                  "value": "Highly detailed map of the San Francisco Presidio."
+                  "value": "Land of Opportunity"
                 },
                 {
                   "label": "Pub List No",
-                  "value": "15815.000"
+                  "value": "15417.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Separate Map"
+                  "value": "Artwork"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "49"
+                  "value": "213"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "60"
+                  "value": "213"
                 },
                 {
                   "label": "Image No",
-                  "value": "15815000.jp2"
-                },
-                {
-                  "label": "Download 1",
-                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/15815000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
-                },
-                {
-                  "label": "Download 2",
-                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                  "value": "15417000.jp2"
                 },
                 {
                   "label": "Authors",
-                  "value": "Engineer Office 9th Corps"
+                  "value": "Zheng, Yunxin (Connie)"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356178~90123079/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~348737~90116370/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -330,26 +127,23 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356178~90123079/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~348737~90116370/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356178~90123079",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~348737~90116370",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 15795,
-                    "height": 12556
+                    "width": 25136,
+                    "height": 25159
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~348737~90116370/canvas/c1"
                 }
               ],
-              "otherContent": [
-                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/list/luna"
-              ],
-              "width": 15795,
-              "height": 12556
+              "width": 25136,
+              "height": 25159
             }
           ]
         }
@@ -358,7 +152,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~356178~90123079"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~348737~90116370"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -544,6 +338,140 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~3464~370053"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/xk506sn3923/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Bird’s Eye View of San Francisco and surrounding country",
+      "attribution": "Provided by the Stanford University Libraries",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/xk506sn3923.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/xk506sn3923'>https://purl.stanford.edu/xk506sn3923</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Bird’s Eye View of San Francisco and surrounding country"
+        },
+        {
+          "label": "Title",
+          "value": "Bird’s Eye View of the City of San Francisco and Surrounding Country"
+        },
+        {
+          "label": "Contributor",
+          "value": "Goddard, George H., 1817-1906"
+        },
+        {
+          "label": "Contributor",
+          "value": "Britton & Rey, San Francisco (lithographer)"
+        },
+        {
+          "label": "Contributor",
+          "value": "Kennedy Gallery, New York (former owner)"
+        },
+        {
+          "label": "Type",
+          "value": "still image"
+        },
+        {
+          "label": "Description",
+          "value": "View looking east across bay to Sierras with Pacific and fort in foreground, with ships leaving Golden Gate, city view and harbor in mid distance, and east bay and snow-covered mountains in distance."
+        },
+        {
+          "label": "Date",
+          "value": "1868"
+        },
+        {
+          "label": "Identifier",
+          "value": "rd-252"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/xk506sn3923"
+        },
+        {
+          "label": "Publisher",
+          "value": "Snow & Roos, San Francisco"
+        },
+        {
+          "label": "Relation",
+          "value": "Reid W. Dennis collection of California lithographs, 1850-1906"
+        },
+        {
+          "label": "Record published",
+          "value": "2025-08-11"
+        }
+      ],
+      "description": "View looking east across bay to Sierras with Pacific and fort in foreground, with ships leaving Golden Gate, city view and harbor in mid distance, and east bay and snow-covered mountains in distance.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 288
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/xk506sn3923/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/xk506sn3923/iiif/canvas/cocina-fileSet-xk506sn3923-xk506sn3923_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 20658,
+              "width": 28662,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/xk506sn3923/xk506sn3923_00_0001.jp2",
+                  "label": "Original source file (106 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/xk506sn3923/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fxk506sn3923-xk506sn3923_1%2Fxk506sn3923_00_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/xk506sn3923/iiif/canvas/cocina-fileSet-xk506sn3923-xk506sn3923_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 20658,
+                    "width": 28662,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -871,6 +799,183 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~290288~90061941/manifest",
+      "label": "Bird Migration Map of North America.",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~290288~90061941/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~290288~90061941/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Bird Migration Map of North America.",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Modern Educational Aids"
+                },
+                {
+                  "label": "Author",
+                  "value": "Gilbert, Albert"
+                },
+                {
+                  "label": "Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Bird Migration Map of North America."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Rand McNally & Co."
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Chicago"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "World Area",
+                  "value": "North America"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Zoological"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Pictorial map"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Bird Migration Map of North America. (insets) (Illustrations of specific birds and their respective migration map.)"
+                },
+                {
+                  "label": "List No",
+                  "value": "9790.000"
+                },
+                {
+                  "label": "Series No",
+                  "value": "1"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Modern Educational Aids"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Gilbert, Albert"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1960"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Bird Migration Map of North America."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Prepared for Modern Educational Aids. Color."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "9790.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "1"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "107"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "84"
+                },
+                {
+                  "label": "Image No",
+                  "value": "9790000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/168/9790000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Modern Educational Aids; Gilbert, Albert"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~290288~90061941/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~290288~90061941/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~290288~90061941",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 16580,
+                    "height": 21092
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~290288~90061941/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~290288~90061941/list/luna"
+              ],
+              "width": 16580,
+              "height": 21092
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~290288~90061941"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
       "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~325683~90094590/manifest",
       "label": "Natural Vegetation of California.",
       "attribution": "David Rumsey Historical Map Collection",
@@ -1052,6 +1157,331 @@
         "format": "image/png"
       },
       "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~325683~90094590"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/gq213vb7676/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "California Water Resources Development, including Development of the Bureau of Reclamation, U.S. Army Corps of Engineers, Major Features of the California Water Plan together with Various Projects of Districts and Municipalities. Issued by Irrigation Districts Association of California, Water News and Information Program",
+      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/gq213vb7676.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/gq213vb7676'>https://purl.stanford.edu/gq213vb7676</a>"
+        },
+        {
+          "label": "Title",
+          "value": "California Water Resources Development, including Development of the Bureau of Reclamation, U.S. Army Corps of Engineers, Major Features of the California Water Plan together with Various Projects of Districts and Municipalities. Issued by Irrigation Districts Association of California, Water News and Information Program"
+        },
+        {
+          "label": "Contributor",
+          "value": "Irrigation Districts Association of California"
+        },
+        {
+          "label": "Type",
+          "value": "Map"
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps."
+        },
+        {
+          "label": "Type",
+          "value": "Aerial views."
+        },
+        {
+          "label": "Format",
+          "value": "1 map : 1 maps ; 69 x 99 cm"
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Description",
+          "value": "Oblique view with shaded relief. Text description of water development features. Color."
+        },
+        {
+          "label": "Description",
+          "value": "Separate Map."
+        },
+        {
+          "label": "Local note",
+          "value": "Pub list no.: 6381.000."
+        },
+        {
+          "label": "Subject",
+          "value": "Water > California > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Water utilities > California > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Water-supply > California > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Bird's-eye views > California > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "California > Maps > 20th century"
+        },
+        {
+          "label": "Date",
+          "value": "1963"
+        },
+        {
+          "label": "Date",
+          "value": "1963"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/gq213vb7676"
+        },
+        {
+          "label": "Publisher",
+          "value": "Irrigation Districts Association of California,"
+        },
+        {
+          "label": "Relation",
+          "value": "David Rumsey Map Collection at Stanford University Libraries"
+        },
+        {
+          "label": "Record published",
+          "value": "2021-02-17"
+        }
+      ],
+      "description": "Oblique view with shaded relief. Text description of water development features. Color.",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 281
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/gq213vb7676/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/gq213vb7676/iiif/canvas/cocina-fileSet-gq213vb7676-gq213vb7676_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 281,
+              "width": 400,
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/gq213vb7676/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fgq213vb7676-gq213vb7676_1%2F6381000.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/gq213vb7676/iiif/canvas/cocina-fileSet-gq213vb7676-gq213vb7676_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 281,
+                    "width": 400,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/manifest",
+      "label": "Map of The Presidio of San Francisco California",
+      "attribution": "David Rumsey Historical Map Collection",
+      "service": {
+        "@context": "http://iiif.io/api/search/1/context.json",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~356178~90123079/search",
+        "profile": "http://iiif.io/api/search/1/search"
+      },
+      "sequences": [
+        {
+          "@type": "sc:Sequence",
+          "canvases": [
+            {
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/canvas/c1",
+              "@type": "sc:Canvas",
+              "label": "Map of The Presidio of San Francisco California",
+              "description": "",
+              "metadata": [
+                {
+                  "label": "Author",
+                  "value": "Engineer Office 9th Corps"
+                },
+                {
+                  "label": "Date",
+                  "value": "1924"
+                },
+                {
+                  "label": "Short Title",
+                  "value": "Map of The Presidio of San Francisco California"
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Engineer Office 9th Corps"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "San Francisco"
+                },
+                {
+                  "label": "Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Obj Height cm",
+                  "value": "49"
+                },
+                {
+                  "label": "Obj Width cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Scale 1",
+                  "value": "6,000"
+                },
+                {
+                  "label": "City",
+                  "value": "San Francisco (Calif,)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "Military"
+                },
+                {
+                  "label": "Full Title",
+                  "value": "Map of The Presidio of San Francisco California. Traced in the Engineer Office Headquarters 9th Corps Area. March 1924."
+                },
+                {
+                  "label": "List No",
+                  "value": "15815.000"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Engineer Office 9th Corps"
+                },
+                {
+                  "label": "Pub Date",
+                  "value": "1924"
+                },
+                {
+                  "label": "Pub Title",
+                  "value": "Map of The Presidio of San Francisco California. Traced in the Engineer Office Headquarters 9th Corps Area. March 1924."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "Highly detailed map of the San Francisco Presidio."
+                },
+                {
+                  "label": "Pub List No",
+                  "value": "15815.000"
+                },
+                {
+                  "label": "Pub Type",
+                  "value": "Separate Map"
+                },
+                {
+                  "label": "Pub Height cm",
+                  "value": "49"
+                },
+                {
+                  "label": "Pub Width cm",
+                  "value": "60"
+                },
+                {
+                  "label": "Image No",
+                  "value": "15815000.jp2"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/205/15815000.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>"
+                },
+                {
+                  "label": "Authors",
+                  "value": "Engineer Office 9th Corps"
+                }
+              ],
+              "thumbnail": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356178~90123079/full/!96,96/0/default.jpg",
+                "format": "image/jpeg"
+              },
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "resource": {
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356178~90123079/full/!1024,1024/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~356178~90123079",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "protocol": "http://iiif.io/api/image"
+                    },
+                    "format": "image/jpeg",
+                    "width": 15795,
+                    "height": 12556
+                  },
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/canvas/c1"
+                }
+              ],
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~356178~90123079/list/luna"
+              ],
+              "width": 15795,
+              "height": 12556
+            }
+          ]
+        }
+      ],
+      "logo": {
+        "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+        "format": "image/png"
+      },
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~356178~90123079"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1597,12 +2027,12 @@
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~348737~90116370/manifest",
-      "label": "Land of Opportunity",
+      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~259471~5522535/manifest",
+      "label": "California.",
       "attribution": "David Rumsey Historical Map Collection",
       "service": {
         "@context": "http://iiif.io/api/search/1/context.json",
-        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~348737~90116370/search",
+        "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~259471~5522535/search",
         "profile": "http://iiif.io/api/search/1/search"
       },
       "sequences": [
@@ -1610,106 +2040,130 @@
           "@type": "sc:Sequence",
           "canvases": [
             {
-              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~348737~90116370/canvas/c1",
+              "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~259471~5522535/canvas/c1",
               "@type": "sc:Canvas",
-              "label": "Land of Opportunity",
+              "label": "California.",
               "description": "",
               "metadata": [
                 {
                   "label": "Author",
-                  "value": "Zheng, Yunxin (Connie)"
+                  "value": "Taylor, Frank J."
+                },
+                {
+                  "label": "Author",
+                  "value": "White, Ruth Taylor"
                 },
                 {
                   "label": "Date",
-                  "value": "2022"
+                  "value": "1935"
                 },
                 {
                   "label": "Short Title",
-                  "value": "Land of Opportunity"
+                  "value": "California."
+                },
+                {
+                  "label": "Publisher",
+                  "value": "Little, Brown, and Company"
+                },
+                {
+                  "label": "Publisher Location",
+                  "value": "Boston"
                 },
                 {
                   "label": "Type",
-                  "value": "Artwork"
+                  "value": "Atlas Map"
                 },
                 {
                   "label": "Obj Height cm",
-                  "value": "213"
+                  "value": "32"
                 },
                 {
                   "label": "Obj Width cm",
-                  "value": "213"
+                  "value": "24"
                 },
                 {
-                  "label": "Note",
-                  "value": "\"Mixed media drawing and collage on cyanotype print. Land of Opportunity is a map that documents forty-three of the most well-documented toxic sites in the Bay Area, alongside local environmental justice protests and both federal and community-based remediation efforts. The tar-like blobs dripping down the paper are places notable for the amount of toxic material that has leaked into the soil and groundwater primarily as a result of high-tech industry, military activities, mercury mining during the gold rush era, and nuclear testing in the South Pacific during World War II. Despite its reputation for being one of the ‘greenest’ places in the United States, the Bay Area also has one of the highest concentrations of Superfund sites in the country, particularly in Silicon Valley, the techno-utopian capital of the United States. The map emphasizes community-based, grassroots organizing efforts, and shows both the kinds of poisons that have contaminated the land as well as the ways in which surrounding communities have protested the presence of these polluters and demanded their right to a clean, healthy environment. Land of Opportunity is a register of the ways in which the Bay Area has been shaped — both figuratively and literally — by dominant settler narratives of the landscape’s potential for wealth and resource extraction. But it is also more than the shadowland of settler, entrepreneurial greed, or the American imperial war machine: it’s also a place constituted and nourished by strong radical politics, care for community, and a trust in the power of local organizing. We live in a place of endless possibility — where the byproducts of greed and warmongering can be sublimated into other forms of power, and politics can be shaped in certain places by the will of the people.\" Connie Zheng, 2022 https://www.conniezheng.com"
-                },
-                {
-                  "label": "Reference",
-                  "value": "This artwork is copyright by Connie Zheng. Please contact the artist for reproduction or exhibit. https://www.conniezheng.com"
-                },
-                {
-                  "label": "City",
-                  "value": "San Francisco (Calif.)"
-                },
-                {
-                  "label": "Region",
-                  "value": "San Francisco Bay (Calif.)"
+                  "label": "State/Province",
+                  "value": "California"
                 },
                 {
                   "label": "Subject",
-                  "value": "Art"
-                },
-                {
-                  "label": "Subject",
-                  "value": "Food"
+                  "value": "Pictorial map"
                 },
                 {
                   "label": "Full Title",
-                  "value": "Land of Opportunity"
+                  "value": "California."
                 },
                 {
                   "label": "List No",
-                  "value": "15417.000"
+                  "value": "7823.018"
+                },
+                {
+                  "label": "Page No",
+                  "value": "17"
+                },
+                {
+                  "label": "Series No",
+                  "value": "18"
                 },
                 {
                   "label": "Publication Author",
-                  "value": "Zheng, Yunxin (Connie)"
+                  "value": "White, Ruth Taylor"
+                },
+                {
+                  "label": "Publication Author",
+                  "value": "Taylor, Frank J."
                 },
                 {
                   "label": "Pub Date",
-                  "value": "2022"
+                  "value": "1935"
                 },
                 {
                   "label": "Pub Title",
-                  "value": "Land of Opportunity"
+                  "value": "Our U.S.A. A Gay Geography. Text by Frank J. Taylor. Maps by Ruth Taylor. Boston - Little, Brown, and Company - 1935."
+                },
+                {
+                  "label": "Pub Note",
+                  "value": "An entertaining fanciful pictorial or cartoon atlas of the United States which includes a full color map and a page of historical and geographical text on each of the 48 states plus the Territories of Alaska, Hawaii, American Samoa and the Commonwealth of the Philippines, plus a map of the Caribbean showing Puerto Rico, the Virgin Islands and the Panama Canal Zone as well as the rest of the Antilles. Numerous small drawings on the map of each state depict sights, people, activities, crops, animals, relief, populated places,etc. A product of the 1930s, it depicts stereotypical images of people, such as on the Tennessee map there are a Ku Klux Klan (KKK) member in white hood and robe with a pistol and a bucket of tar, and a black person dragging a sack of cotton. In addition to these sometimes offensive images, it also reflects the times in terms of what was important or noteworthy about each area of each state be it growing corn, raising mules, crabbing, racing horses, making movies, sailing, Native Americans, national parks, quilting, romance, volcanoes, whales, rain, gold, or big trees. Art by Ruth Taylor (1900-) who was educated at the Pratt Institute of Art; the Art Students League."
                 },
                 {
                   "label": "Pub List No",
-                  "value": "15417.000"
+                  "value": "7823.000"
                 },
                 {
                   "label": "Pub Type",
-                  "value": "Artwork"
+                  "value": "National Atlas"
+                },
+                {
+                  "label": "Pub Maps",
+                  "value": "58"
                 },
                 {
                   "label": "Pub Height cm",
-                  "value": "213"
+                  "value": "25"
                 },
                 {
                   "label": "Pub Width cm",
-                  "value": "213"
+                  "value": "40"
                 },
                 {
                   "label": "Image No",
-                  "value": "15417000.jp2"
+                  "value": "7823018"
+                },
+                {
+                  "label": "Download 1",
+                  "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7823018.sid target=_blank>Full Image Download in MrSID Format</a>"
+                },
+                {
+                  "label": "Download 2",
+                  "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
                 },
                 {
                   "label": "Authors",
-                  "value": "Zheng, Yunxin (Connie)"
+                  "value": "Taylor, Frank J.; White, Ruth Taylor"
                 }
               ],
               "thumbnail": {
-                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~348737~90116370/full/!96,96/0/default.jpg",
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~259471~5522535/full/!96,96/0/default.jpg",
                 "format": "image/jpeg"
               },
               "images": [
@@ -1717,23 +2171,26 @@
                   "@type": "oa:Annotation",
                   "motivation": "sc:painting",
                   "resource": {
-                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~348737~90116370/full/!1024,1024/0/default.jpg",
+                    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~259471~5522535/full/!1024,1024/0/default.jpg",
                     "@type": "dctypes:Image",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~348737~90116370",
+                      "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~259471~5522535",
                       "profile": "http://iiif.io/api/image/2/level1.json",
                       "protocol": "http://iiif.io/api/image"
                     },
                     "format": "image/jpeg",
-                    "width": 25136,
-                    "height": 25159
+                    "width": 3942,
+                    "height": 5224
                   },
-                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~348737~90116370/canvas/c1"
+                  "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~259471~5522535/canvas/c1"
                 }
               ],
-              "width": 25136,
-              "height": 25159
+              "otherContent": [
+                "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~259471~5522535/list/luna"
+              ],
+              "width": 3942,
+              "height": 5224
             }
           ]
         }
@@ -1742,7 +2199,7 @@
         "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
         "format": "image/png"
       },
-      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~348737~90116370"
+      "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~259471~5522535"
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2098,6 +2555,201 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://purl.stanford.edu/dj683by5326/iiif/manifest",
+      "@type": "sc:Manifest",
+      "label": "Welcome to the Presidio of San Francisco",
+      "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+      "logo": {
+        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "seeAlso": {
+        "@id": "https://purl.stanford.edu/dj683by5326.mods",
+        "format": "application/mods+xml"
+      },
+      "metadata": [
+        {
+          "label": "Available Online",
+          "value": "<a href='https://purl.stanford.edu/dj683by5326'>https://purl.stanford.edu/dj683by5326</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Welcome to the Presidio of San Francisco"
+        },
+        {
+          "label": "Contributor",
+          "value": "Bennett, Bernard."
+        },
+        {
+          "label": "Contributor",
+          "value": "Wong, Edwin."
+        },
+        {
+          "label": "Contributor",
+          "value": "Presidio of San Francisco (Calif.), Master Planning Office."
+        },
+        {
+          "label": "Type",
+          "value": "Map"
+        },
+        {
+          "label": "Type",
+          "value": "Cartographic image"
+        },
+        {
+          "label": "Type",
+          "value": "Maps."
+        },
+        {
+          "label": "Type",
+          "value": "Tourist maps."
+        },
+        {
+          "label": "Format",
+          "value": "1 map : color ; 30 x 34 cm"
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Statement of responsibility",
+          "value": "compiled by Bernard Bennett and drawn by Edwin Wong ; Presidio of San Francisco, California, Master Planning Office, Directorate of Facilities Engineer, Headquarters Presidio of San Francisco."
+        },
+        {
+          "label": "Description",
+          "value": "Bar scale given in \"feet\"."
+        },
+        {
+          "label": "Description",
+          "value": "Includes location directory."
+        },
+        {
+          "label": "Description",
+          "value": "Shows buildings, roads, trails, etc."
+        },
+        {
+          "label": "Description",
+          "value": "\"Since 1776 three flags have flown over the Presidio. Spain 1776-1822 -- Mexico: 1822-1846 -- United States: 1846 - to the present.\""
+        },
+        {
+          "label": "Subject",
+          "value": "Tourist maps > California > San Francisco > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "California > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "San Francisco (Calif.) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "Presidio of San Francisco (Calif.) > Maps > 20th century"
+        },
+        {
+          "label": "Subject",
+          "value": "New York (NY)"
+        },
+        {
+          "label": "Coverage",
+          "value": "Scale not determind"
+        },
+        {
+          "label": "Coverage",
+          "value": "122°29′10″W -- 122°26′46″W / 37°48′39″N -- 37°47′12″N"
+        },
+        {
+          "label": "Date",
+          "value": "1974"
+        },
+        {
+          "label": "Date",
+          "value": "1974"
+        },
+        {
+          "label": "Identifier",
+          "value": "OCLC: 974715337"
+        },
+        {
+          "label": "Identifier",
+          "value": "https://purl.stanford.edu/dj683by5326"
+        },
+        {
+          "label": "Publisher",
+          "value": "Armed Forces Directory Service"
+        },
+        {
+          "label": "Record published",
+          "value": "2025-08-11"
+        }
+      ],
+      "description": "Bar scale given in \"feet\".",
+      "thumbnail": {
+        "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001/full/!400,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 400,
+        "height": 349
+      },
+      "sequences": [
+        {
+          "@id": "https://purl.stanford.edu/dj683by5326/iiif/manifest#sequence-1",
+          "@type": "sc:Sequence",
+          "label": "Current order",
+          "viewingDirection": "left-to-right",
+          "canvases": [
+            {
+              "@id": "https://purl.stanford.edu/dj683by5326/iiif/canvas/cocina-fileSet-dj683by5326-dj683by5326_1",
+              "@type": "sc:Canvas",
+              "label": "Image 1",
+              "height": 10904,
+              "width": 12484,
+              "rendering": [
+                {
+                  "@id": "https://stacks.stanford.edu/file/dj683by5326/dj683by5326_00_0001.jp2",
+                  "label": "Original source file (24.5 MB)",
+                  "format": "image/jp2"
+                }
+              ],
+              "images": [
+                {
+                  "@id": "https://purl.stanford.edu/dj683by5326/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fdj683by5326-dj683by5326_1%2Fdj683by5326_00_0001.jp2",
+                  "@type": "oa:Annotation",
+                  "motivation": "sc:painting",
+                  "on": "https://purl.stanford.edu/dj683by5326/iiif/canvas/cocina-fileSet-dj683by5326-dj683by5326_1",
+                  "resource": {
+                    "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 10904,
+                    "width": 12484,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://stacks.stanford.edu/image/iiif/dj683by5326%2Fdj683by5326_00_0001",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
       "@id": "https://purl.stanford.edu/pv703mm4547/iiif/manifest",
       "@type": "sc:Manifest",
       "label": "General chart embracing surveys of the Farallones, entrance to the Bay of San\n   Francisco, bays of San Francisco and San Pablo, Straits of Carquines and Suisun Bay and the\n   Sacramento and San Joaquin rivers to the cities of Sacramento and San Joaquin, California by\n   Cadwalader Ringgold, Commander, U.S. Navy. 1850. Constructed, projected and drawn by Fred. D.\n   Stuart, hydrographer, late of the U.S. Ex. Ex., assisted by Chas. Everett, Jr., draughtsman.\n   Entered ... 1851, by Cadwalader Ringgold ... District of Columbia.",
@@ -2253,304 +2905,6 @@
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "@id": "https://stacks.stanford.edu/image/iiif/pv703mm4547%2F4658010",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "https://purl.stanford.edu/gq213vb7676/iiif/manifest",
-      "@type": "sc:Manifest",
-      "label": "California Water Resources Development, including Development of the Bureau of Reclamation, U.S. Army Corps of Engineers, Major Features of the California Water Plan together with Various Projects of Districts and Municipalities. Issued by Irrigation Districts Association of California, Water News and Information Program",
-      "attribution": "Property rights reside with the repository, Copyright (c) Stanford University.  Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact rumseymapcenter@stanford.edu This work is licensed under a Creative Commons License. By downloading any images from this site, you agree to the terms of that license. ",
-      "logo": {
-        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        }
-      },
-      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
-      "seeAlso": {
-        "@id": "https://purl.stanford.edu/gq213vb7676.mods",
-        "format": "application/mods+xml"
-      },
-      "metadata": [
-        {
-          "label": "Available Online",
-          "value": "<a href='https://purl.stanford.edu/gq213vb7676'>https://purl.stanford.edu/gq213vb7676</a>"
-        },
-        {
-          "label": "Title",
-          "value": "California Water Resources Development, including Development of the Bureau of Reclamation, U.S. Army Corps of Engineers, Major Features of the California Water Plan together with Various Projects of Districts and Municipalities. Issued by Irrigation Districts Association of California, Water News and Information Program"
-        },
-        {
-          "label": "Contributor",
-          "value": "Irrigation Districts Association of California"
-        },
-        {
-          "label": "Type",
-          "value": "Map"
-        },
-        {
-          "label": "Type",
-          "value": "Cartographic image"
-        },
-        {
-          "label": "Type",
-          "value": "Maps."
-        },
-        {
-          "label": "Type",
-          "value": "Aerial views."
-        },
-        {
-          "label": "Format",
-          "value": "1 map : 1 maps ; 69 x 99 cm"
-        },
-        {
-          "label": "Language",
-          "value": "English"
-        },
-        {
-          "label": "Description",
-          "value": "Oblique view with shaded relief. Text description of water development features. Color."
-        },
-        {
-          "label": "Description",
-          "value": "Separate Map."
-        },
-        {
-          "label": "Local note",
-          "value": "Pub list no.: 6381.000."
-        },
-        {
-          "label": "Subject",
-          "value": "Water > California > Maps > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "Water utilities > California > Maps > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "Water-supply > California > Maps > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "Bird's-eye views > California > 20th century"
-        },
-        {
-          "label": "Subject",
-          "value": "California > Maps > 20th century"
-        },
-        {
-          "label": "Date",
-          "value": "1963"
-        },
-        {
-          "label": "Date",
-          "value": "1963"
-        },
-        {
-          "label": "Identifier",
-          "value": "https://purl.stanford.edu/gq213vb7676"
-        },
-        {
-          "label": "Publisher",
-          "value": "Irrigation Districts Association of California,"
-        },
-        {
-          "label": "Relation",
-          "value": "David Rumsey Map Collection at Stanford University Libraries"
-        },
-        {
-          "label": "Record published",
-          "value": "2021-02-17"
-        }
-      ],
-      "description": "Oblique view with shaded relief. Text description of water development features. Color.",
-      "thumbnail": {
-        "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000/full/!400,400/0/default.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        },
-        "width": 400,
-        "height": 281
-      },
-      "sequences": [
-        {
-          "@id": "https://purl.stanford.edu/gq213vb7676/iiif/manifest#sequence-1",
-          "@type": "sc:Sequence",
-          "label": "Current order",
-          "viewingDirection": "left-to-right",
-          "canvases": [
-            {
-              "@id": "https://purl.stanford.edu/gq213vb7676/iiif/canvas/cocina-fileSet-gq213vb7676-gq213vb7676_1",
-              "@type": "sc:Canvas",
-              "label": "Image 1",
-              "height": 281,
-              "width": 400,
-              "images": [
-                {
-                  "@id": "https://purl.stanford.edu/gq213vb7676/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fgq213vb7676-gq213vb7676_1%2F6381000.jp2",
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "on": "https://purl.stanford.edu/gq213vb7676/iiif/canvas/cocina-fileSet-gq213vb7676-gq213vb7676_1",
-                  "resource": {
-                    "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "height": 281,
-                    "width": 400,
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://stacks.stanford.edu/image/iiif/gq213vb7676%2F6381000",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "https://purl.stanford.edu/xk506sn3923/iiif/manifest",
-      "@type": "sc:Manifest",
-      "label": "Bird’s Eye View of San Francisco and surrounding country",
-      "attribution": "Provided by the Stanford University Libraries",
-      "logo": {
-        "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        }
-      },
-      "seeAlso": {
-        "@id": "https://purl.stanford.edu/xk506sn3923.mods",
-        "format": "application/mods+xml"
-      },
-      "metadata": [
-        {
-          "label": "Available Online",
-          "value": "<a href='https://purl.stanford.edu/xk506sn3923'>https://purl.stanford.edu/xk506sn3923</a>"
-        },
-        {
-          "label": "Title",
-          "value": "Bird’s Eye View of San Francisco and surrounding country"
-        },
-        {
-          "label": "Title",
-          "value": "Bird’s Eye View of the City of San Francisco and Surrounding Country"
-        },
-        {
-          "label": "Contributor",
-          "value": "Goddard, George H., 1817-1906"
-        },
-        {
-          "label": "Contributor",
-          "value": "Britton & Rey, San Francisco (lithographer)"
-        },
-        {
-          "label": "Contributor",
-          "value": "Kennedy Gallery, New York (former owner)"
-        },
-        {
-          "label": "Type",
-          "value": "still image"
-        },
-        {
-          "label": "Description",
-          "value": "View looking east across bay to Sierras with Pacific and fort in foreground, with ships leaving Golden Gate, city view and harbor in mid distance, and east bay and snow-covered mountains in distance."
-        },
-        {
-          "label": "Date",
-          "value": "1868"
-        },
-        {
-          "label": "Identifier",
-          "value": "rd-252"
-        },
-        {
-          "label": "Identifier",
-          "value": "https://purl.stanford.edu/xk506sn3923"
-        },
-        {
-          "label": "Publisher",
-          "value": "Snow & Roos, San Francisco"
-        },
-        {
-          "label": "Relation",
-          "value": "Reid W. Dennis collection of California lithographs, 1850-1906"
-        },
-        {
-          "label": "Record published",
-          "value": "2025-08-11"
-        }
-      ],
-      "description": "View looking east across bay to Sierras with Pacific and fort in foreground, with ships leaving Golden Gate, city view and harbor in mid distance, and east bay and snow-covered mountains in distance.",
-      "thumbnail": {
-        "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001/full/!400,400/0/default.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001",
-          "profile": "http://iiif.io/api/image/2/level2.json"
-        },
-        "width": 400,
-        "height": 288
-      },
-      "sequences": [
-        {
-          "@id": "https://purl.stanford.edu/xk506sn3923/iiif/manifest#sequence-1",
-          "@type": "sc:Sequence",
-          "label": "Current order",
-          "viewingDirection": "left-to-right",
-          "canvases": [
-            {
-              "@id": "https://purl.stanford.edu/xk506sn3923/iiif/canvas/cocina-fileSet-xk506sn3923-xk506sn3923_1",
-              "@type": "sc:Canvas",
-              "label": "Image 1",
-              "height": 20658,
-              "width": 28662,
-              "rendering": [
-                {
-                  "@id": "https://stacks.stanford.edu/file/xk506sn3923/xk506sn3923_00_0001.jp2",
-                  "label": "Original source file (106 MB)",
-                  "format": "image/jp2"
-                }
-              ],
-              "images": [
-                {
-                  "@id": "https://purl.stanford.edu/xk506sn3923/iiif/annotation/https:%2F%2Fcocina.sul.stanford.edu%2Ffile%2Fxk506sn3923-xk506sn3923_1%2Fxk506sn3923_00_0001.jp2",
-                  "@type": "oa:Annotation",
-                  "motivation": "sc:painting",
-                  "on": "https://purl.stanford.edu/xk506sn3923/iiif/canvas/cocina-fileSet-xk506sn3923-xk506sn3923_1",
-                  "resource": {
-                    "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "height": 20658,
-                    "width": 28662,
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://stacks.stanford.edu/image/iiif/xk506sn3923%2Fxk506sn3923_00_0001",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
